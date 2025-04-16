@@ -1,2 +1,1 @@
-url="https://cqlehhmwolyytlbrufkd.supabase.co"
-api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNxbGVoaG13b2x5eXRsYnJ1ZmtkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM2NjYxOTMsImV4cCI6MjA1OTI0MjE5M30.9CGnIq-WfrvhpBp4Swebxfne04zwqbNXURhOTOEW_SM"
+
