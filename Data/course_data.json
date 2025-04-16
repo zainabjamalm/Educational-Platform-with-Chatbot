@@ -1,0 +1,38 @@
+[
+  {
+    "course_id": 1,
+    "course_title": "Neural Networks and Deep Learning",
+    "course_description": "In the first course, you'll learn the foundational concepts behind neural networks.",
+    "prerequisites": ["Basic Python", "Linear Algebra"],
+    "tags": ["Deep Learning", "AI", "Neural Networks"],
+    "lessons": [
+      {
+        "lesson_id": 1,
+        "lesson_title": "Intro to Neural Networks",
+        "lesson_description": "Learn the basics of how neural networks work.",
+        "content": "lesson_1_content.txt"
+      }
+    ]
+  },
+  {
+    "course_id": 2,
+    "course_title": "Convolutional Neural Networks (CNNs)",
+    "course_description": "This course dives into convolutional networks for image classification and visual understanding.",
+    "prerequisites": ["Neural Networks", "Linear Algebra"],
+    "tags": ["CNN", "Computer Vision", "Deep Learning"],
+    "lessons": [
+      {
+        "lesson_id": 1,
+        "lesson_title": "Understanding Convolutions",
+        "lesson_description": "Learn about filters, strides, and padding.",
+        "content": "cnn_lesson_1.txt"
+      },
+      {
+        "lesson_id": 2,
+        "lesson_title": "Building a Simple CNN",
+        "lesson_description": "Create your first CNN model for MNIST.",
+        "content": "cnn_lesson_2.txt"
+      }
+    ]
+  }
+]

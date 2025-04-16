@@ -1,0 +1,30 @@
+[
+    {
+      "enrollment_id": 1,
+      "user_id": 10,
+      "course_id": 1,
+      "progress": 0.0,
+      "enrollment_at": "2025-04-14T10:00:00Z",
+      "updated_at": "2025-04-14T10:00:00",
+      "status": "enrolled"
+    },
+    {
+      "enrollment_id": 2,
+      "user_id": 7,
+      "course_id": 2,
+      "progress": 0.5,
+      "enrollment_at": "2025-04-13T15:30:00Z",
+      "updated_at": "2025-04-14T09:45:00",
+      "status": "in_progress"
+    },
+    {
+      "enrollment_id": 3,
+      "user_id": 10,
+      "course_id": 2,
+      "progress": 1.0,
+      "enrollment_at": "2025-04-10T12:00:00Z",
+      "updated_at": "2025-04-14T08:00:00",
+      "status": "completed"
+    }
+  ]
+  
